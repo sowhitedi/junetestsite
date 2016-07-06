@@ -6,7 +6,7 @@ url: "http://webconfs.me" # the base hostname & protocol for your site
 twitter_username: guilh
 gems: jekyll-paginate
 paginate: 3
-paginate_path:"page:num"
+paginate_path: page:num
 
 # Build settings
 markdown: kramdown
